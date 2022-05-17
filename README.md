@@ -1,9 +1,8 @@
 # Natalia Reyes
-### Hey there, nice to see you 🌻
+### Welcome to my Github! 🌻
 <img align="right" alt="img" src="https://i.etsystatic.com/29199933/c/1796/1796/614/276/il/23e607/3170081496/il_300x300.3170081496_icrr.jpg" width="30%" height="auto" />
-Welcome to my Github page!
 
-I´m Natalia, Front-End Developer.
+I´m Front-End Developer.
 
 I´m from Mexico and I love technology, superhero and the nature.
 
@@ -24,7 +23,7 @@ I´m from Mexico and I love technology, superhero and the nature.
 <img src="https://img.shields.io/badge/-Trello-007ACC?style=flat&logo=Trello&logoColor=white">
 <img src="https://img.shields.io/badge/-Agile_Methodology-red?style=flat">
 
-### Contact me, Click Here:point_down: 🌍
+### Contact me:point_down: 🌍
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-reyes-altamirano/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nreyesalt@gmail.com)
